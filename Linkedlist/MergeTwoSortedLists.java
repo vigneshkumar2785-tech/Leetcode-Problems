@@ -1,4 +1,4 @@
-package LeetCode.Linkedlist;
+package Linkedlist;
 import java.util.*;
 
 class ListNode {
